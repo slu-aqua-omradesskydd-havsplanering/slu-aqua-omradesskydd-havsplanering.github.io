@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Områdesskydd och havsplanering"
+  search: false
+  sidebar: false
+  navbar:
+    right:
+      - href: index.html 
+        text: Home
+      - href: shiny.qmd
+        text: Shiny
+      - href: rapporter.qmd
+        text: Rapporter
+        
+format:
+  html:
+    theme: cosmo
+    anchor-sections: false
+    toc: true
+
+editor: visual

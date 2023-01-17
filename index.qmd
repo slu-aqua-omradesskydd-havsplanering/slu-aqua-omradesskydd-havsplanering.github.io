@@ -1,0 +1,11 @@
+---
+
+---
+
+## Områdesskydd och havsplanering
+
+|                                      |                                                     |     |
+|:----------------------:|:---------------------------------:|:------------:|
+| [![](images/shiny.png)](/shiny.html) | [![](images/artiklarRapporter.png)](rapporter.html) |     |
+|      [Shinyappar](/shiny.html)       |       [Artiklar & Rapporter](/rapporter.html)       |     |
+|                                      |                                                     |     |
