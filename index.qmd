@@ -1,11 +1,6 @@
----
+## Områdesskydd och havsplanering {style="border: 0"}
 
----
-
-## Områdesskydd och havsplanering
-
-|                                      |                                                     |     |
-|:----------------------:|:---------------------------------:|:------------:|
-| [![](images/shiny.png)](/shiny.html) | [![](images/artiklarRapporter.png)](rapporter.html) |     |
-|      [Shinyappar](/shiny.html)       |       [Artiklar & Rapporter](/rapporter.html)       |     |
-|                                      |                                                     |     |
+|                                                                                                  |                                                                                                                             |                                                                                   |
+|:---------------------:|:------------------------------:|:----------------:|
+| [![](docs/images/shiny.png){style="border: solid black 1px; border-radius: 50px;"}](/shiny.html) | [![](docs/images/artiklarRapporter.png){style="border: solid black 1px; border-radius: 50px;" width="350"}](rapporter.html) | ![](docs/images/blank.png){style="border: solid black 1px; border-radius: 50px;"} |
+|                                    [Shinyappar](/shiny.html)                                     |                                           [Artiklar & Rapporter](/rapporter.html)                                           |                                                                                   |

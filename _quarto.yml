@@ -18,7 +18,8 @@ website:
 format:
   html:
     theme: cosmo
+    css: styles.css
     anchor-sections: false
-    toc: true
+    toc: false
 
 editor: visual

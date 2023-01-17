@@ -1,0 +1,19 @@
+---
+title: "Rapporter"
+---
+
+## Artiklar
+
+| Artikel | Tidsskrift | Författare | Beskrivning |
+|---------|------------|------------|-------------|
+|         |            |            |             |
+|         |            |            |             |
+|         |            |            |             |
+
+## Rapporter
+
+| Rapport | Författare | Beskrivning |
+|---------|------------|-------------|
+|         |            |             |
+|         |            |             |
+|         |            |             |

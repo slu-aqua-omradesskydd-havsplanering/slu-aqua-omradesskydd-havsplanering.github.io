@@ -11,6 +11,27 @@
     "href": "shiny.html",
     "title": "Shiny",
     "section": "",
-    "text": "App\nGithub\nLänk\nBeskrivning\n\n\n\n\nLängdfördelning\nhttps://github.com/slu-aqua-omradesskydd-havsplanering/length-distribution\nmartenerlandsson.shinyapps.io/lngdfrdelning/\nVisara arters längdfördelning baserat på fångster från provfisken 2003-2016\n\n\nMarstrand quiz\n\nhttps://martenerlandsson.shinyapps.io/MarstrandQuiz/\nQuiz om vår enhet från Aqua-dagarna 2022\n\n\nWiosym\n\nhttps://wiosym.shinyapps.io/wiosym/\n\n\n\nSpiggvågen\n\nhttps://martenerlandsson.shinyapps.io/stickleback/\nUndersöker data från spiggvågenartikeln"
+    "text": "App\nGithub\nBeskrivning\n\n\n\n\nLängdfördelning\nhttps://github.com/slu-aqua-omradesskydd-havsplanering/length-distribution\nVisara arters längdfördelning baserat på fångster från provfisken 2003-2016\n\n\nMarstrand quiz\n\nQuiz om vår enhet från Aqua-dagarna 2022\n\n\nWiosym\n\n\n\n\nSpiggvågen\n\nUndersöker data från spiggvågenartikeln"
+  },
+  {
+    "objectID": "rapporter.html",
+    "href": "rapporter.html",
+    "title": "Rapporter",
+    "section": "",
+    "text": "Artikel\nTidsskrift\nFörfattare\nBeskrivning"
+  },
+  {
+    "objectID": "rapporter.html#rapporter",
+    "href": "rapporter.html#rapporter",
+    "title": "Rapporter",
+    "section": "Rapporter",
+    "text": "Rapporter\n\n\n\nRapport\nFörfattare\nBeskrivning"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Områdesskydd och havsplanering",
+    "section": "",
+    "text": "Shinyappar\nArtiklar & Rapporter"
   }
 ]
