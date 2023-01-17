@@ -1,5 +1,5 @@
 ---
-title: "Rapporter"
+title: "Artiklar & Rapporter"
 ---
 
 ## Artiklar
